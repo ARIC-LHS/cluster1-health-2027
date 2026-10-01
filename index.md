@@ -2,7 +2,7 @@
 
 ## Horizon Europe Cluster 1 Health 2027 Matchmaking Platform
 
-An integrated health research ecosystem bringing together:
+An integrated research ecosystem connecting:
 
 - University of Bologna (UNIBO)
 - IRCCS Azienda Ospedaliero-Universitaria di Bologna (AOUBO)
@@ -11,24 +11,10 @@ An integrated health research ecosystem bringing together:
 
 ---
 
-## Why partner with Bologna?
+## What can you find here?
 
-A multidisciplinary ecosystem combining:
+✅ 13 Horizon Europe Health 2027 topics
 
-- Clinical excellence
-- Research infrastructures
-- AI and Data Science
-- Omics and biomarkers
-- Biobanks and cohorts
-- Implementation science
-- Digital Health
+✅ 95+ researcher profiles
 
----
-
-## Explore
-
-- topics.html
-
-### Contact
-
-ARIC – Life and Health Sciences
+✅ Clinical, scientific and technological
