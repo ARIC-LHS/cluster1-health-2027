@@ -27,28 +27,12 @@ A multidisciplinary ecosystem combining:
 
 ## Explore
 
-### The Hub
+## Explore
 
-Coming soon
+### Topics
 
-### Research Capabilities
+topics.html
 
-Coming soon
+### Contact
 
-### Research Infrastructures
-
-Coming soon
-
-### Horizon Europe Topics 2027
-
-Coming soon
-
----
-
-## Contact
-
-ARIC – Research Development
-
-Life and Health Sciences
-
-lhs@unibo.it
+ARIC – Life and Health Sciences
