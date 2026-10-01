@@ -1,15 +1,27 @@
-Hero blu
+WHY PARTNER WITH BOLOGNA?
 
-Why Partner with Bologna?
+Integrated Metropolitan Research Ecosystem
+
+─────────────────────
+
+Research Excellence
+
+─────────────────────
 
 Clinical Excellence
 
-Research Infrastructure
+─────────────────────
 
-AI & Digital Health
+Research Infrastructures
 
-Biobanks & Cohorts
+─────────────────────
 
-European Networks
+Innovation & Technology
 
-Contact
+─────────────────────
+
+The Four Institutions
+
+─────────────────────
+
+Contact ARIC
