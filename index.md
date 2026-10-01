@@ -27,11 +27,7 @@ A multidisciplinary ecosystem combining:
 
 ## Explore
 
-## Explore
-
-### Topics
-
-topics.html
+- topics.html
 
 ### Contact
 
