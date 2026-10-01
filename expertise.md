@@ -1,24 +1,25 @@
-# Browse Expertise
+BROWSE EXPERTISE
 
-## Microbiome
+─────────────────────
 
-- Marco Candela
-- Francesca Maffei
+Microbiome
 
-## Human Biomonitoring
+Researchers
 
-- Stefano Mattioli
+Related Topics
 
-## Climate Modelling
+─────────────────────
 
-- Ohad Zivan
+Human Biomonitoring
 
-## Food Systems
+Researchers
 
-- Tullia Gallina Toschi
-- Enrico Valli
+Related Topics
 
-## Behavioural Sciences
+─────────────────────
 
-- Roberta Spadoni
-- Giulia Maesano
+Climate Modelling
+
+Researchers
+
+Related Topics
