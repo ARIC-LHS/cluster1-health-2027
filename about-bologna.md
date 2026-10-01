@@ -1,51 +1,15 @@
-# Why Partner with Bologna?
+Hero blu
 
-The Bologna Metropolitan Health Research Hub combines:
+Why Partner with Bologna?
 
-- University of Bologna
-- IRCCS AOUBO
-- IRCCS IOR
-- IRCCS ISNB
+Clinical Excellence
 
----
+Research Infrastructure
 
-## Research Strengths
+AI & Digital Health
 
-### Clinical Research
+Biobanks & Cohorts
 
-Large patient cohorts and clinical pathways.
+European Networks
 
-### Omics and Biomarkers
-
-Genomics, transcriptomics, metabolomics and microbiome.
-
-### Digital Health
-
-AI, interoperability, health data and digital biomarkers.
-
-### Human Relevant Models
-
-Organoids, tissue models and experimental systems.
-
-### Rehabilitation and Medical Technologies
-
-Biomechanics, robotics and assistive technologies.
-
----
-
-## Research Infrastructures
-
-- Biobanks
-- Registries
-- Imaging facilities
-- Omics platforms
-- Clinical cohorts
-- Digital health infrastructures
-
----
-
-## Cluster 1 Health 2027
-
-The platform is organised by Horizon Europe topics and supports consortium building and partner search.
-
-topics.html
+Contact
