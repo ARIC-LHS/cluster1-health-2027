@@ -6,76 +6,25 @@
 Living and Working in a Health-Promoting Environment
 
 ### Type
-RIA
+Research and Innovation Action (RIA)
 
 ---
 
 ## Matchmaking Focus
 
-Climate-related and co-occurring exposures.
+This topic addresses:
 
-Longitudinal human data.
-
-Biomarkers and mechanisms.
-
-Omics and microbiome.
-
-Exposure modelling.
-
-Inequalities, behaviour and policy-relevant evidence.
-
-FAIR and interoperable data.
+- Climate-related and co-occurring exposures
+- Human exposome research
+- Biomarkers and mechanisms
+- Omics and microbiome
+- Exposure modelling
+- Behavioural and socioeconomic determinants
+- FAIR and interoperable data
+- Policy-relevant evidence
 
 ---
 
-## Bologna Expertise Portfolio
+## Why Bologna?
 
-20 researcher profiles available.
-
----
-
-### Marco Candela (UNIBO)
-
-**Contribution**
-
-Microbiome and multi-omics analysis linking environmental change, host biology and One Health pathways.
-
-**Potential Role**
-
-Microbiome and host-environment interaction work package.
-
----
-
-### Francesca Maffei (UNIBO)
-
-**Contribution**
-
-Integrated biomarkers and multi-omics in human exposure contexts.
-
-**Potential Role**
-
-Human biomonitoring, ethics and communication.
-
----
-
-### Monica Forni (UNIBO)
-
-**Contribution**
-
-Quality-assured biospecimen and microbiome workflows aligned with biobanking standards.
-
-**Potential Role**
-
-Biobanking, SOPs, quality assurance and metadata.
-
----
-
-### Marco Luppi (UNIBO)
-
-**Contribution**
-
-Mechanistic investigation of temperature-sensitive biological pathways.
-
-**Potential Role**
-
-Mechanistic hypothesis testing.
+The Bologna Metropolitan Health Research Hub 
