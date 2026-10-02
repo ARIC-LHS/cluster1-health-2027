@@ -1,21 +1,17 @@
-<div style="
-background: linear-gradient(135deg,#003B5C,#007E87);
-padding:80px;
-border-radius:20px;
-color:white;
-text-align:center;
-margin-bottom:40px;
-">
+<div class="hero">
 
-<h1 style="font-size:56px;color:white;margin-bottom:10px;">
-Bologna Metropolitan Health Research Hub
+<div class="hero-box">
+
+<h1>
+Bologna Metropolitan<br>
+Health Research Hub
 </h1>
 
-<p style="font-size:24px;">
+<p>
 Horizon Europe Cluster 1 Health 2027
 </p>
 
-<p style="font-size:18px;">
+<p>
 Research Matchmaking Platform
 </p>
 
@@ -23,18 +19,69 @@ Research Matchmaking Platform
 UNIBO • AOUBO • IOR • ISNB
 </p>
 
-<p>
-<a href="topics.html" style="
-background:#F2B134;
-color:#003B5C;
-padding:12px 24px;
-border-radius:8px;
-text-decoration:none;
-font-weight:bold;
-margin-right:10px;">
-Explore Topics
+<a class="btn btn-primary" href=
+expertise.html
+Browse Expertise
 </a>
 
-<a href="expertise.html" style="
-background:white;
+</div>
 
+</div>
+
+<div class="stats">
+
+<div class="stat">
+<div class="stat-number">21</div>
+<div class="stat-label">
+Funded Health Projects
+</div>
+</div>
+
+<div class="stat">
+<div class="stat-number">4</div>
+<div class="stat-label">
+Coordinated Projects
+</div>
+</div>
+
+<div class="stat">
+<div class="stat-number">€11.1M</div>
+<div class="stat-label">
+EU Contribution
+</div>
+</div>
+
+<div class="stat">
+<div class="stat-number">4</div>
+<div class="stat-label">
+Research Institutions
+</div>
+</div>
+
+</div>
+
+<div class="featured">
+
+<h2>Featured Topic</h2>
+
+<div class="topic-card">
+
+<h2>ENVHLTH-02</h2>
+
+<p>
+Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
+</p>
+
+<p>
+20 researcher profiles available.
+</p>
+
+<p>
+<a ics/envhlth-02.html
+Explore Topic →
+</a>
+</p>
+
+</div>
+
+</div>
