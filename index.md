@@ -1,3 +1,8 @@
+---
+layout: page
+title: Home
+---
+
 # Bologna Metropolitan Health Research Hub
 
 ## Horizon Europe Cluster 1 Health 2027
@@ -38,4 +43,4 @@ Integrating climate-related exposures into the human exposome and characterising
 
 **20 researcher profiles**
 
-[Explorenvhlth-02.md
+topics/envhlth-02.md
