@@ -1,15 +1,32 @@
-<div class="hero">
+# Bologna Metropolitan Health Research Hub
 
-<div class="hero-box">
+![Bologna Metropolitan Health## Horizon Europe Cluster 1 Health 2027
 
-<h1>
-Bologna Metropolitan Health Research Hub
-</h1>
+An integrated research ecosystem connecting:
 
-<p>
-Horizon Europe Cluster 1 Health 2027
-</p>
+**UNIBO • AOUBO • IOR • ISNB**
 
-</div>
+---
 
-</div>
+| 21 | 4 | €11.1M | 4 |
+|----|----|----|----|
+| Funded Projects | Coordinated Projects | EU Contribution | Institutions |
+
+---
+
+## Explore
+
+### Topics
+[Browse research topics](topicsise.md
+
+### Bologna Ecosystem
+[About Bologna](about-
+## Featured Topic
+
+### ENVHLTH-02
+
+Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
+
+**20 researcher profiles**
+
+topics/envhlth-02.md
