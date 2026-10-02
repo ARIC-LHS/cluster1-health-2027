@@ -1,6 +1,6 @@
 # Bologna Metropolitan Health Research Hub
 
-![Bologna Metropolitan Health## Horizon Europe Cluster 1 Health 2027
+## Horizon Europe Cluster 1 Health 2027
 
 An integrated research ecosystem connecting:
 
@@ -17,10 +17,19 @@ An integrated research ecosystem connecting:
 ## Explore
 
 ### Topics
-[Browse research topics](topicsise.md
+
+[Browse Research Topics](topics.md)
+
+### Expertise
+
+[Browse Expertise](expertise.md)
 
 ### Bologna Ecosystem
-[About Bologna](about-
+
+[About Bologna](about-bologna.md)
+
+---
+
 ## Featured Topic
 
 ### ENVHLTH-02
@@ -29,4 +38,4 @@ Integrating climate-related exposures into the human exposome and characterising
 
 **20 researcher profiles**
 
-topics/envhlth-02.md
+[Explorenvhlth-02.md
