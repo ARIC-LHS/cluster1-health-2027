@@ -1,3 +1,8 @@
 title: Bologna Metropolitan Health Research Hub
 description: Horizon Europe Cluster 1 Health 2027
 theme: minima
+
+header_pages:
+  - topics.md
+  - expertise.md
+  - about-bologna.md
