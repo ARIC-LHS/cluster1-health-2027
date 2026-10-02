@@ -1,72 +1,40 @@
----
-layout: page
-title: Bologna Metropolitan Health Research Hub
----
+<div style="
+background: linear-gradient(135deg,#003B5C,#007E87);
+padding:80px;
+border-radius:20px;
+color:white;
+text-align:center;
+margin-bottom:40px;
+">
 
-# Bologna Metropolitan Health Research Hub
+<h1 style="font-size:56px;color:white;margin-bottom:10px;">
+Bologna Metropolitan Health Research Hub
+</h1>
 
-### Horizon Europe Cluster 1 Health 2027
+<p style="font-size:24px;">
+Horizon Europe Cluster 1 Health 2027
+</p>
 
-An integrated health research ecosystem connecting:
+<p style="font-size:18px;">
+Research Matchmaking Platform
+</p>
 
-**University of Bologna (UNIBO)**  
-**IRCCS AOUBO**  
-**IRCCS IOR**  
-**IRCCS ISNB**
+<p>
+UNIBO • AOUBO • IOR • ISNB
+</p>
 
----
+<p>
+<a href="topics.html" style="
+background:#F2B134;
+color:#003B5C;
+padding:12px 24px;
+border-radius:8px;
+text-decoration:none;
+font-weight:bold;
+margin-right:10px;">
+Explore Topics
+</a>
 
-## Why Bologna?
+<a href="expertise.html" style="
+background:white;
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;">
-
-<div style="padding:20px;border-left:4px solid #005BBB;background:#f8f9fa;">
-<h3>Multidisciplinary Research</h3>
-Medicine, life sciences, engineering, AI and social sciences.
-</div>
-
-<div style="padding:20px;border-left:4px solid #005BBB;background:#f8f9fa;">
-<h3>Clinical Excellence</h3>
-Three IRCCS hospitals and specialised clinical environments.
-</div>
-
-<div style="padding:20px;border-left:4px solid #005BBB;background:#f8f9fa;">
-<h3>Research Infrastructures</h3>
-Biobanks, cohorts, omics, imaging and digital health.
-</div>
-
-<div style="padding:20px;border-left:4px solid #005BBB;background:#f8f9fa;">
-<h3>European Experience</h3>
-Strong Horizon Europe participation and coordination.
-</div>
-
-</div>
-
----
-
-## Explore the Ecosystem
-
-### Institutions
-
-- [Universityna.html
-- expertise.html
-
----
-
-## Featured Topic
-
-### ENVHLTH-02
-
-Integrating climate-related exposures into the human exposome and characterising its changes in response to climate change.
-
-**20 researcher profiles**
-
-[Explore ENVHLTH-02](l
-
----
-
-## Contact
-
-ARIC – Life and Health Sciences
-
-lhs@unibo.it
